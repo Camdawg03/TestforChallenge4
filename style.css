@@ -69,7 +69,7 @@ font-size: 60px;
 
 .about h3 {
     color:rgb(255, 255, 255);
-    background-color:black;
+    background-color: rgb(26, 26, 26);
     border-radius: 12px;
     font-size: 20px;
     margin-right: 160px;
@@ -83,14 +83,14 @@ font-size: 60px;
 }
 
 body{
-    background-color: black; 
+    background-color: rgb(26, 26, 26); 
 }
 
 .body {
     float:right;
     margin-right: 300px;
     margin-top: -400px;
-    background-color: black;
+    background-color: rgb(26, 26, 26);
 }
 
 .body h1 {
